@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@azure/identity": "^2.0.5",
-    "@azure/storage-blob": "^12.10.0",
+    "@azure/storage-blob": "^12.13.0",
     "@sorry-cypress/common": "1.0.0",
     "@sorry-cypress/logger": "1.0.0",
     "@sorry-cypress/mongo": "1.0.0",
